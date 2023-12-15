@@ -30,6 +30,7 @@ Nuestro enfoque experimental incluye el cultivo de bacterias *Shewanella*, la tr
 
 Este trabajo se apoya en investigaciones previas y actuales en el campo, incluyendo estudios sobre integrones, resistencia a antibióticos, y aplicaciones de CRISPR/Cas9.
 
-Canal: @oliShewanella
+Canal Youtube: [@oliShewanella](https://www.youtube.com/@oliShewanella)
+
 
 [![Video Demo](http://img.youtube.com/vi/kz2W6J_69VE/0.jpg)](http://www.youtube.com/watch?v=kz2W6J_69VE)
