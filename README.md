@@ -33,11 +33,3 @@ Este trabajo se apoya en investigaciones previas y actuales en el campo, incluye
 Canal: @oliShewanella
 
 [![Video Demo](http://img.youtube.com/vi/kz2W6J_69VE/0.jpg)](http://www.youtube.com/watch?v=kz2W6J_69VE)
-
-
-```html
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/kz2W6J_69VE](https://www.youtube.com/embed/kz2W6J_69VE)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```markdown
-
-
-
